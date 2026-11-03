@@ -1,0 +1,5 @@
+fallback: true
+reason: OpenAI returned 400: { "error": { "message": "The model 'gpt-image-1' does not exist.", "type": "image_generation_user_error", "param": "model", "code": "invalid_value" } }
+appName: ATS
+appType: other
+timestamp: 2026-11-03T04:45:53.576Z
